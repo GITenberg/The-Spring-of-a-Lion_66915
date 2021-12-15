@@ -1,5 +1,8 @@
 _repo: The-Spring-of-a-Lion_66915
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66915-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/365
     wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66915#The-Spring-of-a-Lion
 gutenberg_issued: '2021-12-10'
 identifiers:
   gutenberg: '66915'
